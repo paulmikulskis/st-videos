@@ -1,4 +1,4 @@
-# Video Plan
+# Vector, the hidden observability supertool.
 
 ## Objective
 The objective of this video is to introduce the audience to the concept of observability, and how it can be achieved with Vector, an open-source high-performance observability data pipeline. 
