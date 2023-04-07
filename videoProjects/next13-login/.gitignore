@@ -1,3 +1,4 @@
+*.txt
 trends.py
 terms.json
 .history
