@@ -3,6 +3,10 @@
 ## Objective
 The objective of this video is to showcase how to integrate Supertokens front end with NextJS 13 by adapting the existing integration steps as shown in the Supertokens documentation.
 
+There are several *critical* steps that must be changed from the existing NextJS 12 integration steps
+to accomodate the new NextJS 13 spec.
+This will require re-assesing how certain functions are named and placed, and potentailly even changing some implementation details.  This video will serve as a strong guide to fill in this growing space.
+
 ## Tone
 Medium technical difficulty, tutorial style, informative.
 
